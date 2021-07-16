@@ -2,7 +2,7 @@
 - 👀 I’m interested in industrial automation and artificial intelligence
 - 🌱 I’m currently learning web development and artificial intelligence
 - 💞️ I’m looking to collaborate on new projects about artificial intelligence
-- 📫 How to reach me at @rodolfotibu on twitter
+- 📫 Reach me at @rodolfotibu on twitter
 
 <!---
 rodolfotiburcio/rodolfotiburcio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
